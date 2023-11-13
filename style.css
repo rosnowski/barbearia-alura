@@ -1,5 +1,5 @@
 body{
-    background: #ccc
+    
 }
 #banner {
     width: 100%;
@@ -7,9 +7,35 @@ body{
 .principal {
 background: #cccccc;
 padding: 30px;
+}
+h1 {
+    text-align: center;
+}
 p{
     text-align: center;
 }
+#missao {
+    font-size: 20px;
+}
 em strong{
     color:aqua
+} 
+.itens {
+    font-style: italic 
 }
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    display:inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios [
+    width: 50%;
+]
